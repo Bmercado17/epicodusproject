@@ -1,6 +1,6 @@
 # epicodusproject
 episodesproject first time working with GitHub on my own 
-# _{Application Name}_
+# _{Epicodusproject}_
 
 #### _{This is an example website with three links to other projects I worked on} {01/24/19}
 
