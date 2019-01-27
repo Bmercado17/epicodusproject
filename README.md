@@ -12,9 +12,9 @@ _{this application/webpage contains three links to three deifferent projects I h
 ## Setup/Installation Requirements.
 * _Scroll down to the bottom of the page.
 * _There are three links with three colored bottons.
-* _First botton will return you to the top of the page (the link next to it will take you to the third project I worked on)
-* _Second botton will take you to the second project I participated on (the text link will also take you to the project as well)
-* _Third botton will take you to the most recent project I worked on with a student pair at epicodus (the text will also take you to the project)
+* _First botton will return you to the top of the page (the link next to it will take you to the third project I worked on).
+* _Second botton will take you to the second project I participated on (the text link will also take you to the project).
+* _Third botton will take you to the most recent project I worked on with a student pair at epicodus (the text will also take you to the project).
 
 ## Known Bugs
 
