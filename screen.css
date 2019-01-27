@@ -2,7 +2,6 @@
 background-color: #6caa8c;
 }
 
-
 #mythings{
     text-align: center;
     color: gray;
@@ -36,13 +35,20 @@ img{
     clear: both;
     display: table;
 }
-
+@media only screen and (max-width: 700px) {
+    body {
+      width: auto;
+      float: none;
+      background-color:bisque;
+    }
+  }
 body{
     background-color: #77f1b4;
     font-family: tahoma;
     font-weight: 2%;
-
+    
 }
+
 .container{
     max-width: 940px;
     margin-left: auto;
