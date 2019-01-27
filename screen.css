@@ -1,0 +1,142 @@
+.html {
+background-color: #6caa8c;
+}
+
+
+#mythings{
+    text-align: center;
+    color: gray;
+}
+h1{
+    color: rgb(60, 132, 165);
+}
+.sitebanner {
+width: 100px;
+height: 40px;
+margin-top:5px;
+margin-bottom:5px;
+transition: all 1s ease-in;
+}
+.sitebanner:hover{
+transform: rotate(90deg);
+}
+.content-area {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+img{
+    width:100%;
+    height:auto;
+    margin-right: 6%;
+    margin-bottom: 5px;
+}
+
+.clearfix{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+body{
+    background-color: #77f1b4;
+    font-family: tahoma;
+    font-weight: 2%;
+
+}
+.container{
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+header{
+     padding-top: 20px;
+     
+}
+header h1{ 
+    font-weight: normal;
+    margin: 0;
+}
+header p{
+    margin: 0%;
+    padding: 3%;
+    font-style: oblique;
+}
+/* site-navigation */
+.site-nav ul{
+    margin: 0%;
+    padding: 0%;
+}
+.site-nav li{
+
+    list-style: none;
+    float: left;
+    margin-right: 5px;
+    margin-top:30px;
+}
+.site-nav a{
+    display: block;
+    text-decoration: none;
+    padding: 4px 20px;
+    border: 3px solid #0c0c0c;
+    border-bottom: none;
+    
+}
+.site-nav a:hover{
+    background-color: #ff0066
+
+}
+
+/* end-sitenavigation */
+
+/*banner Overlay*/
+.image-banner img{
+    display: block;
+}
+.image-banner{
+    position: relative;
+    top: 10px;
+    left: 2px;
+}
+.banner-description{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    color: fff;
+    background-color: rgba(89, 201, 158, 0.65);
+    padding: 0px 10px;
+
+}
+footer{
+    text-align: center;
+}
+
+.main-area{
+    width: 100%;
+    float: left;
+    margin: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+ }
+.sidebar{
+    width: 80%;
+    float: left;
+    margin: 1%;
+}
+
+
+.group:before,
+.group:after {
+    content: "";
+    display: table; 
+}
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1;
+}
