@@ -31,9 +31,11 @@ img{
 }
 .smallbanner{
     float:left;
-    position:absolute;
-    right:960px;
+    position: relative;
+    right:-102px;
     margin-top: -80px;
+    margin-left: 10px;
+    
    }
 .clearfix{
     content: "";
@@ -137,7 +139,9 @@ footer{
     float: left;
     margin: 1%;
 }
-
+thefoot{
+    text-decoration-color: plum;
+}
 
 .group:before,
 .group:after {
